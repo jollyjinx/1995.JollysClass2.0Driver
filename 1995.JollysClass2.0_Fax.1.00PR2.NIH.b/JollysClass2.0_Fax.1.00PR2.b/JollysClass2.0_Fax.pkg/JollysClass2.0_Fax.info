@@ -1,0 +1,12 @@
+# Jollys Modem Driver  Package Info file
+#
+Title				JollysClass2.0_Fax.pkg
+Version				Version 1.00 ( 21.Mar 1995 23:55:23 )
+DefaultLocation		/usr/lib/NextPrinter
+Relocatable			NO
+Application			NO
+DiskName			JollysClass2.0_Fax #%d
+
+Description		JollysClass2.0_Fax is a send-Fax modem driver for Class2.0 modems. For further instructions read the README.rtf and the ReleaseNotes.rtf.
+
+DeleteWarning	Be aware that you first have to deinstall the Fax from your NetInfo database with the /NextApps/PrinterManager.app before deleting this package.
